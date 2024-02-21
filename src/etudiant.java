@@ -49,3 +49,11 @@ public class Etudiant {
         Etudiant etudiant = new Etudiant("Doe", "John", 20);
         System.out.println(etudiant);
     }
+    public double calculerStatistiques() {
+        // Ajouter le code pour calculer les statistiques
+        return 0.0;
+    }
+    public double calculerNotes() {
+        // Ajouter le code pour calculer les statistiques
+        return 0.0;
+    }
